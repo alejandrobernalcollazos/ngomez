@@ -213,3 +213,15 @@
         padding: 4%;
         height: auto;
     }
+    /* --------------------------------*/
+    /* Testimony section */
+    /* --------------------------------*/
+
+    blockquote {
+        text-align: center;
+    }
+
+    cite {
+        text-align: center;
+    }
+}
